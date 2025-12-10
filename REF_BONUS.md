@@ -13,3 +13,4 @@
 
 * In order to be eligible , your referral must have verified their email and performed `proof of humanity`.
 * Once we calculate the referral bonus once, we won't calculate it again, so if most of your referral didn't complete the email verification and `proof of humanity`, you might want to wait for them to finish before clicking the button.
+quote md
