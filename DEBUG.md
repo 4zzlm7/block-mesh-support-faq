@@ -2,7 +2,7 @@
 
 ## Debug Connection Issues
 
-### Step 1
+### Step 1v12
 1. Logout and re-login into the extension.
 2. Wait for 180 seconds.
 3. Check status again (refresh dashboard).
