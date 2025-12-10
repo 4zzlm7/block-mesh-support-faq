@@ -26,3 +26,9 @@ If you're unsure, go to https://wallet-helper.blockmesh.xyz/ and click `submit`.
 <img width="753" alt="image" src="https://github.com/user-attachments/assets/b8329c58-d3cc-4e0d-952e-7f7558f37d0b">
 
 It will fill in your `email` after you approve connection and you can copy it from the form.
+The next big leap in crypto won’t be loud.
+It’ll be subtle—
+transaction by transaction, integration by integration.
+
+And when the world realizes stablecoins now move at internet speed,
+Codex may already be the chain powering that reality.
