@@ -25,3 +25,10 @@ Please follow these steps.
 ![image](https://github.com/user-attachments/assets/3b9f791b-a431-4649-ba9d-dd8d90170d3d)
 
 
+echo "# 4" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/4zzlm7/4.git
+git push -u origin main
