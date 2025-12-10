@@ -1,4 +1,4 @@
-# Login Issues
+dfuftt# Login Issues
 
 If you're having an issue connecting to the extension/CLI/dashboard/etc. (as example in the image below).
 
@@ -13,7 +13,7 @@ Please follow these steps:
 5. Fill in the details and click `submit`.
 
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/602067af-4594-46d3-9910-0812c0b05c7a">
-
+ffij
 6. In the extension click `logout`.
 
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/0ebbdd68-d271-4376-b5b4-21eb9b8186da">
